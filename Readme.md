@@ -10,9 +10,9 @@ This project focuses on generating high-resolution satellite imagery from low-re
 - **Annotation Format**: MS-COCO (JSON)
 - **Annotation Type**: Horizontal Bounding Boxes (HBB)
 - **Structure**:
-  - `train/annotations.coco`
-  - `valid/annotations.coco`
-  - `test/annotations.coco`
+  - `train/annotations.coco.json`
+  - `valid/annotations.coco.json`
+  - `test/annotations.coco.json`
 
 ## Project Workflow
 1. **Dataset Preparation**
